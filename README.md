@@ -1,4 +1,6 @@
-# FirstGoGin
+# First Go Gin
+
+Building web service (API) using Gin in Go programming language and test its benchmark and performance. 
 
 ## Using
 
@@ -39,3 +41,4 @@ Requests/sec:  84691.09
 Transfer/sec:     10.58MB
 ```
 
+© Copyright Max Base, 2021
